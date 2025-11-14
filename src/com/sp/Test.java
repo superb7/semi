@@ -7,5 +7,6 @@ public class Test {
 		
 		System.out.println("ccc");
 		System.out.println("c");
+		System.out.println("d");
 	}
 }
