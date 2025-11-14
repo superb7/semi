@@ -1,4 +1,4 @@
-package com.sp2;
+package com.sp3;
 
 public class Ex {
 	public void sub() {
