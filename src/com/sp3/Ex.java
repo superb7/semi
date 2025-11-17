@@ -5,5 +5,7 @@ public class Ex {
 		System.out.println();
 		System.out.println("b");
 		System.out.println("aaaa");
+		
+		System.out.println("c");
 	}
 }
