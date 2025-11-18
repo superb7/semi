@@ -6,6 +6,6 @@ public class Ex {
 		System.out.println("b");
 		System.out.println("aaaa");
 		
-		System.out.println("c");
+		System.out.println("cccc");
 	}
 }
