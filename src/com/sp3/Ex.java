@@ -7,5 +7,6 @@ public class Ex {
 		System.out.println("aaaa");
 		
 		System.out.println("cccc");
+
 	}
 }
