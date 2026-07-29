@@ -1,3 +1,4 @@
 /build/
 mybatis-config.xml
+MailSender.java
 **/dist/api/**
