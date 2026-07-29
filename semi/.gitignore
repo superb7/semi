@@ -1,0 +1,3 @@
+/build/
+mybatis-config.xml
+**/dist/api/**
